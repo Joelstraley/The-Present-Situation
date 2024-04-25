@@ -1,0 +1,9 @@
+.DS_STORE
+node_modules
+/node_modules
+.flowconfig
+.package-lock.json
+remote-repo/
+.module-cache
+.idea
+.vscode
